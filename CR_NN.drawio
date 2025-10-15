@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="la-5cS1cGPLpte9uxVnf-145" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;shadow=1;glass=1;fillColor=light-dark(#d1ffd6, #ededed);strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="la-5cS1cGPLpte9uxVnf-145" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;shadow=1;glass=1;fillColor=light-dark(#d6ffed, #ededed);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="640" width="320" height="550" as="geometry" />
         </mxCell>
         <mxCell id="la-5cS1cGPLpte9uxVnf-140" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;shadow=1;glass=1;fillColor=light-dark(#fdffe0, #ededed);strokeColor=none;" vertex="1" parent="1">
@@ -284,7 +284,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="la-5cS1cGPLpte9uxVnf-120" value="&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Actor NN&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="la-5cS1cGPLpte9uxVnf-120" value="&lt;div&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Actor NN&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="780.11" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="la-5cS1cGPLpte9uxVnf-122" value="" style="group" vertex="1" connectable="0" parent="1">
